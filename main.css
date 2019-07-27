@@ -1,0 +1,129 @@
+.logo {
+    color: #f56369;
+    padding: 3px 15px;
+}
+.project-tab {
+    padding: 10%;
+    margin-top: -8%;
+}
+.section-header {
+    border-bottom: 1px solid rgba(0,0,0,0.3);
+}
+.section-header a {
+    color: #636262;
+}
+.section-header a:hover {
+    color: #f56369 !important;
+}
+.project-tab #tabs{
+    background: #f56369;
+    color: #eee;
+}
+.project-tab #tabs h6.section-title{
+    color: #eee;
+}
+.project-tab #tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #f56369;
+    background-color: transparent;
+    border-color: transparent transparent #f3f3f3;
+    border-bottom: 3px solid !important;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+.nav-tabs {
+    border-bottom: none;
+}
+.project-tab .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    color: #f56369;
+    font-size: 16px;
+    font-weight: 600;
+}
+.project-tab .nav-link:hover {
+    border: none;
+}
+.project-tab thead{
+    background: #f3f3f3;
+    color: #333;
+}
+.project-tab a{
+    text-decoration: none;
+    color: #333;
+}
+.button {
+    color: red;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+.table td, .table th {
+    border-top: 0px;
+}
+.table th {
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 0px; 
+    padding-bottom: 0px; 
+}
+.table td {
+    font-size: 13px !important;
+}
+.table {
+    box-sizing: unset;
+}
+.section-transport {
+    background-color: #fefefe;
+    border-bottom: 1px solid #aaa;
+}
+.section-content {
+    background-color: #e9ecef;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.section-content .card {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: none;
+}
+.result {
+    padding-bottom: 2rem;
+    display: inline-block;
+}
+.list {
+    padding: 0.5rem;
+}
+.ratings {
+    color: #ffb100;
+    font-size: 12px;
+}
+.rating {
+    margin-left: 7px;
+}
+.tat, .fleet {
+    font-size: 12px;
+}
+.time-title, .price {
+    font-weight: 600;
+}
+.vehicle-list {
+    height: 550px;
+    padding: 0px;
+}
+.map-wrapper {
+    padding: 0px;
+}
+.list-group {
+    height: 100%;
+    overflow: auto;
+}
+.map-pagination {
+    margin-top: 10px;
+}
+.pagination {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+a.page-link {
+    border: 0px;
+}
